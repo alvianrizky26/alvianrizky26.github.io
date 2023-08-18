@@ -161,7 +161,7 @@ nav a:hover::after {
 
 
 .btn-custom1 {
-	background-color: #23CE6B;
+	background-color: rgb(79, 228, 79);
 	text-align: center;
 	color: whitesmoke;
 	width: 150px;
